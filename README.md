@@ -2,7 +2,7 @@
 
 Trello-Lite is a simplified Kanban board inspired by platforms like Trello, designed to help users efficiently manage tasks across different stages of completion. With an intuitive interface and responsive design, users can seamlessly organize tasks and track their progress.
 
-![Screenshot from 2023-08-24 23-24-13](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/9107e5fc-8214-4904-a19b-4087eb750c68)
+![1](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/757f91b7-3d4d-4a8e-997d-fbddb129a46d)
 
 
 ## Features
@@ -14,12 +14,15 @@ Trello-Lite is a simplified Kanban board inspired by platforms like Trello, desi
 - **Delete Task**: Permanently remove tasks with a simple delete option.
 - **Task Status**: Effortlessly drag and drop tasks between To Do, Doing, and Done categories.
 - **Responsive Design**: Fully functional and visually appealing across both desktop and mobile devices.
-![Screenshot from 2023-08-24 23-24-58](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/c3849d82-3442-4113-acb0-b27b3d5810ae)
+![2](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/c0beba63-f4ae-470f-a109-397249941a09)
+
 
 ## Usage
 
 Visit the live application: [Trello-Lite WebApp](https://simple-trello.netlify.com)
-![Screenshot from 2023-08-24 23-24-58](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/6768d699-4571-40aa-a2c7-1ef57843fa57)
+
+![3](https://github.com/Ashwani2749/Trello-Lite/assets/115502503/4ea9ffd7-099c-4001-ad5d-63048ea9f0e6)
+
 
 ## Technologies Used
 
